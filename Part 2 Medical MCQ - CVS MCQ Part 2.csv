@@ -1,0 +1,889 @@
+ques,ans,explanation
+"1. Following statements about JVP are true
+A. external jugular vein is a reliable guide to atrial pressure
+B. JVP is measured from supra-sternal notch
+C. normal JVP rises on abdominal compression
+D. normal JVP falls during inspiration
+E. JVP is more palpable than visible",FFTTF,Explanation 1
+"2. Cardiothoracic ratio increases in
+A. neonates
+B. congestive heart failure
+C. chronic emphysema
+D. addison's disease
+E. acromegaly",TTFFT,Explanation 2
+"3. In auscultation of the heart, pan-systolic murmur is heard in
+A. tricuspid regurgitation
+B. mitral valve prolapse
+C. ventricular septal defect
+D. atrial septal defect
+E. aortic regurgitation",TFTFF,Explanation 3
+"4. Infective endocarditis is associated with
+A. Roth spots
+B. Osler's nodes
+C. café-au lait lesion
+D. clubbing
+E. malar flush",TTFTF,Explanation 4
+"5. Complications of mitral stenosis include
+A. cerebral embolism
+B. hoarseness of voice
+C. frank haemoptysis
+D. left ventricular hypertrophy
+E. pulmonary hypertension",TTTFT,Explanation 5
+"6. Clinical feature of tricuspid regurgitation
+A. pan-systolic murmur at tricuspid area
+B. very high JVP with giant ""a"" wave
+C. pulsatile liver
+D. pan-systolic murmur louder at full inspiratory phase
+E. mid-diastolic murmur at tricuspid area",TFTTT,Explanation 6
+"7.  Disorders associated with aortic regurgitation include
+A. ankylosing spondylitis
+B. Marfan's syndrome
+C. syphilitic aortitis
+D. patent ductus arteriosus
+E. Takayasu's arteritis",TTTFT,Explanation 7
+"8. Collapsing pulse may be felt in
+A. mitral stenosis
+B. aortic regurgitation
+C. severe anaemia
+D. pericardial effusion
+E. thyrotoxicosis",FTTFT,Explanation 8
+"9. Left ventricular hypertrophy may be recognized by
+A. displaced apex beat
+B. heaving apex beat
+C. left parasternal heave
+D. epigastric pulsation
+E. tracheal shift",TTFFF,Explanation 9
+"10. Mid-diastolic murmur
+A. best heard at the cardiac apex
+B. best heard with the bell of the stethoscope
+C. intensity increases after exercise
+D. radiate to axilla
+E. best heard with the patient sitting up",TTTFF,Explanation 10
+"11. Pericardial rub
+A. is characteristic of pericarditis
+B. has a scratching character
+C. is sometimes palpable
+D. has both systolic and diastolic components
+E. is altered by position",TTFTT,Explanation 11
+"12. Clinical features of aortic regurgitation are
+A. pan-systolic murmur at aortic area
+B. bounding peripheral pulse
+C. capillary pulsation at the nail bed
+D. femoral bruit
+E. head nodding with pulse",FTTTT,Explanation 12
+"13. Recognized complications of heart failure are
+A. hyponatraemia
+B. hypoalbuminaemia
+C. impaired liver function test
+D. anaemia
+E. sudden death",TFTFT,Explanation 13
+"14. The pulse characteristics listed below are typical features of the following disorders
+A. pulsus bisferiens- combined mitral stenosis and regurgitation
+B. pulsus paradoxus- aortic regurgitation
+C. collapsing pulse- severe anaemia
+D. pulsus alternans- extrasystoles every alternate beat
+E. slow rising pulse- mitral stenosis",FFTFF,Explanation 14
+"15. Common causes of atrial fibrillation are
+A. coronary artery disease
+B. hypertensive heart disease
+C. rheumatic mitral valve disease
+D. thyrotoxicosis
+E. pneumonia",TTTTT,Explanation 15
+"16. Complications of systemic hypertension include
+A. retinal microaneurysm
+B. dissecting aneurysm
+C. left ventricular hypertrophy
+D. lacunar stroke of internal capsule
+E. subdural haemorrhage",FTTTF,Explanation 16
+"17. Mitral regurgitation are caused by
+A. mitral valve prolapse
+B. cardiomyopathy
+C. myocardial infarction
+D. infective endocarditis
+E. rheumatic fever",TTTTT,Explanation 17
+"18. Causes of irregular pulse are
+A. sinus arrhythmia
+B. sinus tachycardia
+C. atrial extrasystoles
+D. atrial fibrillation
+E. ventricular extrasystoles",TFTTT,Explanation 18
+"19. Causes of hypertension are
+A. Addisons's disease
+B. polycystic kidney disease
+C. primary hypothyroidism
+D. renal artery stenosis
+E. pan-hypopituitarism",FTTTF,Explanation 19
+"20. Causes of left ventricular hypertrophy are
+A. pulmonary hypertension
+B. aortic stenosis
+C. tricuspid regurgitation
+D. constrictive pericarditis
+E. ischaemic heart disease",FTFFT,Explanation 20
+"21. Third heart sound is heard in
+A. heart failure
+B. mitral stenosis
+C. pregnancy
+D. young people
+E. early systole",TFTTF,Explanation 21
+"22. Modifiable risk factors for ischaemic heart disease are
+A. male sex
+B. old age
+C. hypertension
+D. hypercholestrolaemia
+E. diabetes mellitus",FFTTT,Explanation 22
+"23. Clinical features of mitral stenosis are
+A. wide pulse pressure
+B. mid-diastolic murmur at left sternal edge
+C. loud first heart sound
+D. opening snap
+E. atrial fibrillation",FFTTT,Explanation 23
+"24. Features of right ventricular failure are
+A. decreased JVP
+B. ankle oedema
+C. hepatomegaly
+D. bilateral basal crepitations
+E. right parasternal heave",FTTFF,Explanation 24
+"25. In stable angina
+A. chest pain is precipitated by exertion and relieved by rest
+B. pain around the nipple area is the usual site
+C. ECG changes are invariably present
+D. CK-MB is typically raised
+E. duration of symptom is usually more than 45 minutes",TFFFF,Explanation 25
+"26. These are true for aortic stenosis
+A. collapsing pulse
+B. wide pulse pressure
+C. pan-systolic murmur in aortic area
+D. atrial fibrillation is a commonly associated finding
+E. may present with angina pectoris",FFFFT,Explanation 26
+"27. Features of left ventricular failure are
+A. pulsus paradoxus
+B. triple rhythm
+C. bilateral basal crepitations
+D. heaving apex beat
+E. raised JVP",FTTFF,Explanation 27
+"28. The following are true
+A. closure of mitral valve and tricuspid valve produce first heart sound
+B. fourth heart sound is produced by rapid ventricular filling
+C. opening snap is heard in prosthetic valve
+D. third heart sound presents in some physiological conditions
+E. first sound is loud in mitral stenosis",TFFTT,Explanation 28
+"29. Risk factors for thromboembolism in atrial fibrillation are
+A. age more than 65
+B. high blood pressure
+C. diabetes mellitus
+D. heart failure
+E. previous history of transient ischaemic attack",TTTTT,Explanation 29
+"30. The following are true for acute rheumatic fever
+A. chorea appears at first week of acute rheumatic fever
+B. chorea is least common but most diagnostic manifestation
+C. subcutaneous nodules occur in 50% of patients
+D. subcutaneous nodules are painful
+E. C-reactive protein is decreased",FTFFF,Explanation 30
+"31. ECG can be of help in diagnosis of
+A. acute pulmonary oedema
+B. acute myocardial infarction
+C. cardiac arrhythmia
+D. thrombus in the left ventricle
+E. complete heart block",FTTFT,Explanation 31
+"32. The following are major criteria of acute rheumatic fever
+A. raised ASO titre
+B. erythema nodosum
+C. arthralgia
+D. chorea
+E. carditis",FFFTT,Explanation 32
+"33. Recognized clinical features of constrictive pericarditis include.
+A. ascites
+B. hepatomegaly
+C. dependant oedema
+D. Kussmaul sign
+E. pulsus paradoxus",TTTTT,Explanation 33
+"34. Causes of high volume pulse include
+A. hypothyroidism
+B. aortic stenosis
+C. acute beri beri
+D. pregnancy
+E. severe anaemia",FFTTT,Explanation 34
+"35. Characteristic features of chest pain in acute myocardial infarction are
+A. pain is characteristically felt over the apex of the heart
+B. sharp stabbing pain
+C. relieved by sublingual nitrate
+D. not relieved by rest
+E. radiate to angle of jaw",FFFTT,Explanation 35
+"36. The curable causes of hypertension are
+A. diabetic nephropathy
+B. renal artery stenosis
+C. chronic pyelonephritis
+D. coarctation of aorta
+E. primary aldosteronism",FTFTT,Explanation 36
+"37. Bradycardia may be seen in
+A. beri beri
+B. increased intracranial pressure
+C. diltiazem therapy
+D. atropine injection
+E. congestive cardiac failure",FTTFF,Explanation 37
+"38. In management of Cor-pulmonale
+A. digitalis is of primary importance
+B. antibiotics are usually necessary
+C. respiratory stimulants may be necessary
+D. liberal use of oxygen is advisable in all cases
+E. sedation is usually given as a routine",FFTFF,Explanation 38
+"39. Management of acute pulmonary oedema include
+A. mannitol infusion
+B. IV amiodarone
+C. IV morphine
+D. IV frusemide
+E. IV glyceryl trinitrate",FFTTT,Explanation 39
+"40. The following are true about cardiac arrest and cardiopulmonary resuscitation (CPR)
+A. EMD (electromechanical dissociation) has good prognosis compared to ventricular fibrillation dy
+B. hypocalcaemia is a recognized cause of cardiac arrest
+C. IV atropine is useful for cardiac arrest due to ventricular asystole
+D. defibrillation is the mainstay in management of cardiac arrest due to EMD
+E. adrenaline is always given intravenously",FTTFF,Explanation 40
+"41. Pericardial tamponade is characterized by
+A. left parasternal heave
+B. pulsus alternans
+C. Adams-Stokes attack
+D. Cheyne-Stokes breathing
+E. Kussmaul sign",FFFFT,Explanation 41
+"42. The following are recognized complications of acute myocardial infarction
+A. atrial fibrillation
+B. cerebral embolism
+C. ventricular septal defect
+D. pericarditis
+E. aortic regurgitation",TTTTF,Explanation 42
+"43. In Fallot's Tetralogy
+A. pulmonary and aortic stenosis are combined with a ventricular septal defect
+B. the second heart sound is loud and widely splits on inspiration
+C. the chest X-ray and ECG are typically normal
+D. pulsus bisferiens presents
+E. a 'machinery' murmur presents over the left sternal border",FFFFF,Explanation 43
+"44. In the treatment of acute pulmonary oedema
+A. controlled oxygen therapy should be restricted to 28% oxygen in patients who smoke
+B. morphine reduces vasoconstriction and dyspnoea
+C. furosemid therapy given intravenously reduces preload and afterload
+D. nitrates should be avoided if the systolic blood pressure < 140 mmHg
+E. ACE inhibitors decrease the afterload but increase the preload",FTTFF,Explanation 44
+"45. Recognized features of sever cardiac failure include
+A. tiredness
+B. weight loss
+C. epigastric pain
+D. nocturia
+E. nocturnal cough",TTTTT,Explanation 45
+"46. With regard to Angiotensin-converting enzyme (ACE) inhibitors
+A. ACE inhibitors reduce the conversion of angiotensinogen to angiotensin I
+B. hyperkalaemia is a recognized complication
+C. cough is a less common side effect of ACE inhibitors than angiotensin II antagonists
+D. first dose hypotension occurs less commonly in patients pretreated with diuretics
+E. treatment is of no benefit until symptomatic left ventricular systolic dysfunction has developed",FTFFF,Explanation 46
+"47. In the management of chronic heart failure
+A. ACE inhibitor therapy reduces mortality
+B. there is no role of warfarin
+C. salt restriction may be beneficial
+D. beta-adrenoceptor antagonists (beta-blockers) should always be avoided
+E. digoxin is only of benefit if atrial fibrillation coexists",TFTFF,Explanation 47
+"48. Important explanations for hypertension refractory to medical therapy include
+A. poor therapy with drug therapy
+B. inadequate drug therapy
+C. pheochromocytoma
+D. primary hyperaldosteronism
+E. renal artery stenosis",TTTTT,Explanation 48
+"49. The auscultatory findings listed below are associated with the following phenomena
+A. third heart sound -opening of mitral valve
+B. varying intensity of 1"" heart sound -atrioventricualr dissociation
+C. soft first heart sound -mitral stenosis
+D. reversed splitting of 2nd heart sound -left bundle branch block
+E. fourth heart sound-atrial fibrillation",FTFTF,Explanation 49
+"50. In the classification of anti-arrhythmic drugs, the following statements are true
+A. class I agents inhibit the fast sodium channel
+B. class II agents are ß-adrenoceptor antagonists
+C. class III agents prolong the action potential
+D. class IV agents inhibit the slow calcium channel
+E. some anti-arrhythmic agents have actions in more than one class",TTTTT,Explanation 50
+"51. The cardiac drugs listed below are associated the following adverse effects
+A. digoxin -acute confusional state
+B. verapamil -constipation
+C. amiodarone -photosensitivity
+D. propafenone -corneal microdeposits
+E. lidocaine (lignocaine) -convulsions",TTTFT,Explanation 51
+"52. Digoxin
+A. shortens the refractory period of conducting tissues
+B. usually converts atrial flutter to sinus rhythm
+C. is excreted primarily by the kidney
+D. is a class II anti-arrhythmic drug
+E. is a recognized cause of ventricular arrhythmias",FFTFT,Explanation 52
+"53. In the treatment of patients with angina pectoris
+A. aspirin reduces the frequency of angina attacks
+B. glycerol trinitrate is equally effective when swallowed as when taken sublingually
+C. calcium antagonists may cause peripheral oedema
+D. tissues levels of nitrates must be consistently high for maximum therapeutic effects
+E. B-blockers are more effective than other antianginal agents",FFTFF,Explanation 53
+"54. The clinical features of acute myocardial infarction include
+A. vomiting
+B. breathlessness
+C. hypotension
+D. sinus tachycardia
+E. absence of any symptoms",TTTTT,Explanation 54
+"55. In the treatment of acute myocardial infarction
+A. aspirin given within 6 hours of onset reduces the mortality
+B. streptokinase therapy reduces the infarct size and mortality by 25%
+C. diamorphine is better given intravenously than any other route
+D. immediate calcium channel blocker therapy reduces the early mortality rate
+E. mobilization should be deferred until cardiac enzymes normalize infarction include",TTTFF,Explanation 55
+"56. Drug therapies which improve the long term prognosis after myocardial
+A. aspirin
+B. nitrates
+C. calcium antagonists
+D. ACE inhibitors
+E. ß blockers",TFFTT,Explanation 56
+"57. Characteristic features of nortic dissection include
+A. haemopericardium
+B. acute paraparacsis
+C. interscapular back pain
+D. early diastolic murmur
+E. pleural effusion",TTTTT,Explanation 57
+"58. Clinical features suggesting aortic stenosis include
+A. late systolic ejection click
+B. narrow pulse pressure
+C. heaving apex beat
+D. syncope associated with angina
+E. loud second heart sound",FTTTF,Explanation 58
+"59. In infective endocarditis
+A. streptococci and staphylococci account for over 80% of cases
+B. left heart valves are more frequently involved than right heart valves
+C. normal cardiac valves are not effected
+D. haematuria is common
+E. a normal echocardiogram excludes the diagnosis",TTFTF,Explanation 59
+"60. Typical features of acute pericarditis include
+A. chest pain identical to that of myocardial infarction
+B. a friction rub that is best heard in the axilla in mid-expiration
+C. ST elevation on the ECG with upward concavity
+D. elevation of serum creatinine kinase
+E. ECG changes that are only seen in the chest leads",FFTFF,Explanation 60
+"61. In pericardial tamponade
+A. high amplitude QRS complexes are a typical ECG feature
+B. the systemic arterial pressure falls dramatically on inspiration
+C. echocardiography is the definitive investigation
+D. an effusion >250 ml must be present before detrimental hemodynamic effects ensue
+E. a normal chest radiograph excludes the diagnosis",FTTFF,Explanation 61
+"62. The radiological features of mitral stenosis include the following
+A. dilatation of upper lobe pulmonary veins
+B. the presence of Kerley B lines
+C. splaying of the tracheal bifurcation
+D. straightening of the left heart border
+E. gross cardiac enlargement in sever mitral stenosis",TTTTT,Explanation 62
+"63. Clinical signs of mitral stenosis include the following
+A. facial cyanosis
+B. a pan-systolic murmur may be heard at the left lower sternal edge which increases on inspiration
+C. mid-diastolic murmur is always heard
+D. the presence of an early diastolic murmur at the left lower sternal border always suggests an associated aortic regurgitation
+E: the first heart sound is loud even when mitral valve is heavily calcified",TTFFF,Explanation 63
+"64. Regarding mitral regurgitation
+A. mitral regurgitation due to mirtal valve prolapse occurs more frequently in males
+B. massive valvular calcification may cause mitral regurgitation
+C. severe mitral regurgitation is usually non-progressive and remains stable for many years
+D. in mixed mitral valve disease the presence of a left sided third heart sound excludes severe mitral stenosis
+E. rumbling diastolic murmur always suggests an associated mitral stenosis",FTFTF,Explanation 64
+"65. Regarding aortic stenosis
+A. rheumatic aortic stenosis is commonly associated with rheumatic mitral stenosis
+B. slow rising pulse
+C. double apical pulse
+D. the presence of a 4th heart sound
+E. paradoxical splitting of the 2nd heart sound",TTTTT,Explanation 65
+"66. The following are well recognized peripheral signs in aortic regurgitation
+A. collapsing pulse
+B. carotid bruit
+C. wide pulse pressure
+D. capillary pulsation in nails and hands
+E. flapping tremor",TFTTF,Explanation 66
+"67. Tricuspid regurgitation
+A. is commonly due to primary pathology of the valve
+B. is associated with prominent ""a"" wave in JVP
+C. should be suspected in intravenous drug users
+D. may be due to carcinoid syndrome
+E. may cause enlarged liver",FFFTT,Explanation 67
+"68. Atrial septal defect
+A. is more frequently seen in male
+B. usually become symptomatic in 3d decade
+C. chemoprophylaxis for infective endocarditis is necessary
+D. ejection systolic murmur over pulmonary area
+E. wide fixed split 2nd sound is heard",FFFTT,Explanation 68
+"69. Physical signs in PDA are
+A. differential cyanosis
+B. bounding and brisk pulse
+C. machinery murmur below the left clavicle
+D. diastolic murmur at the apex
+E. heaving apex",TTTTT,Explanation 69
+"70. Clinical manifestations of heart failure include the following
+A. jaundice
+B. polyuria
+C. Cheyne-Stokes breathing
+D. orthopnoea
+E. splenomegaly",TFTTT,Explanation 70
+"71. SA node dysfunction is seen in
+A. typhoid fever
+B. acute hypertension
+C. hypothyroidism
+D. advanced liver disease
+E. severe hypoxia",TTTTT,Explanation 71
+"72. Regarding the JVP
+A. the external jugular vein is better than the internal jugular vein for determining the JVP
+B. JVP is better felt than seen
+C. the 'a' wave is due to atrial systole
+D. 'x' descent is due to atrial relaxation
+E. 'y' descent is due to ventricular filling",FFTTT,Explanation 72
+"73. JVP
+A. Kussmaul sign is most commonly seen in severe right heart failure
+B. rapid 'y' descent is caused by tricuspid regurgitation
+C. giant 'v' waves can be seen in mitral stenosis
+D. prominent 'a' waves can be seen in tricuspid stenosis
+E. cannon 'a' waves occur in complete heart block",TFFTT,Explanation 73
+"74. Regarding infective endocarditis
+A. Roth spots may be seen in the retina
+B. Carey Coombs' murmur may be heard
+C. streptococci are the commonest organisms causing early endocarditis in
+prosthetic valves
+D. renal disease may occur
+E. blood cultures may be negative",TFFTT,Explanation 74
+"75. Causes of left parasternal heave include
+A. dilated pulmonary artery
+B. dilated right ventricle
+C. dilated left atrium
+D. hypertrophied right ventricle
+E. severe mitral regurgitation",FTTTT,Explanation 75
+"76. Causes of a loud first heart sound include
+A. exercise
+B. atrial myxoma
+C. fever
+D. mitral stenosis
+E. calcified anterior mitral leaflet",TTTTF,Explanation 76
+"77. Cardiac tamponade is characterized by
+A. rising arterial pressure
+B. rising venous pressure
+C. quiet heart sounds
+D. pulsus paradoxus
+E. pericardial knock",FTTTF,Explanation 77
+"78. Clinical signs of coarctation include
+A. radial pulses are typically absent
+B. systemic hypertension
+C. continuous murmur may be heard over the chest wall
+D. mid-systolic murmur over upper precordium
+E. femoral pulses are not equal",FTTTF,Explanation 78
+"79. Fallot's Tetralogy
+A. often there are large ventricular septal defects
+B. may have pulmonary valve stenosis
+C. may be associated with ASD
+D. squatting with exercise is pathognomonic of this diagnosis
+E. second heart sound is widely split",TTTTF,Explanation 79
+"80. The following may be normal findings
+A. right to left shunting during a Valsalva maneuver
+B. ventricular bigeminy
+C. late systolic murmur at the apex
+D.rarly diastolic aortic regurgitation in a fit athlete
+E. pulmonary regurgitation in a pregnant female",TTTFT,Explanation 80
+"81. The following are associated with a right to left shunt
+A. ductus arteriosus in the foetus
+B. ostium secundum ASD in an adult
+C. Eisenmenger's syndrome
+D. Fallot's tetralogy
+E. tricuspid atresia",TTTTT,Explanation 81
+"82. Management of atrial fibrillation
+A. in permanent AF, a rapid ventricular rate resistant to digoxin should be treated with infravenous flecainide
+B. in persistent AF, the success of permanent cardioversion is independent of left atrial size
+C. in paroxysmal AF induced only by exercise, oral flecainide should be considered first line
+D. in paroxysmal AF with a predominantly vagal compoueat, disopyramide should be considered first line drug
+E. in paroxysmal AF with underlying poor LV function, atniodarone is the drug of choice",FFFTT,Explanation 82
+"83. The following statements are true regarding ventricular tachycardia
+A. it is associated with a long QT interval
+B. usually gives a RSR pattern in ECG lead V1
+C. it may degenerate into ventricular fibrillation
+D. the patient may present with syncope
+E. the diagnosis is excluded by fusion beats on the ECG",TFTTF,Explanation 83
+"84. The following statements are true regarding captopril
+A. it causes a loss of taste
+B. should routinely be given with spironolactone
+C. leads to increased levels of angiotensin 1
+D. leads to reduced levels of bradykinin
+E. its onset of action is relatively rapid",TFTFT,Explanation 84
+"85. The following are true of infective endocarditis in intravenous drug abusers.
+A. Staphylococcus albus is the commonest infecting organism
+B. the aortic valve is affected most often
+C. pulmonary abscess is a recognized association
+D. blood cultures may be negative even in untreated disease)
+E. murn are frequently absent",FFTTT,Explanation 85
+"86. The following are recognized causes of pericardial disease
+A. coxsackie B virus
+B. tuberculosis
+C. rheumatic fever
+D. hypereosinophilic syndrome
+E. ankylosing spondylitis",TTTFF,Explanation 86
+"87. The following are associated with cyanotic congenital heart disease in adults:
+A. gout
+B. cerebral abscess
+C. finger clubbing
+D. infective endocarditis
+E. hypoadrenalism",TTTTF,Explanation 87
+"88. Pulmonary oligaemia on a chest X ray may be due to:
+A. primary pulmonary hypertension
+B. pulmonary embolism
+C. Fallot's tetralogy
+D. pulmonary stenosis
+E. left to right shunt",TTTTF,Explanation 88
+"89. The following are features of Fallot's tetralogy
+A. prominent systolic murmur due to a ventricular septal defect
+B. pulmonary plethora
+C. squatting
+D. paradoxical embolus
+E. presentation in late teens",FFTTF,Explanation 89
+"90. Infective endocarditis rarely occurs with
+A. patent ductus arteriosus
+B. bicuspid aortic valve
+C. atrial septal defect
+D. isolated mitral stenosis
+E. mitral valve prolapse",FFTTT,Explanation 90
+"91. Immediately after a large haemorrhage
+A. pulse pressure is increased
+B. tachypnoea occurs
+C. shunting of blood within the kidney is common
+D. coronary vasoconstriction occurs
+E. carotid chemoreceptors are inhibited",FTTFF,Explanation 91
+"92. Pulsus alternans
+A. is best recognized on the electrocardiogram
+B. indicates bad prognosis in cases of CHF
+C. is easily diagnosed on taking BP
+D. is seen with constrictive pericarditis
+E. it is easily distinguishable from a bigeminal pulse",FTTFF,Explanation 92
+"93. Causes of dyspnoea include
+A. acute pulmonary oedema
+B. bronchial carcinoma
+C. lymphangitic carcinomatosis
+D. uraemia
+E. salicylate poisoning",TTTTT,Explanation 93
+"94. In advanced heart failure the following complications may occur
+A. renal failure
+B. hypercalcaemia
+C. hypokalaemia
+D. hyponatraemia
+E. thromboembolism",TFTTT,Explanation 94
+"95. Abdominal aortic aneurysms
+A. are usually due to atheroma
+B. may present with unequal pulses
+C. may cause epigastric pain
+D. usually affect suprarenal abdominal aorta
+E. can present with back pain",TTTFT,Explanation 95
+"96. Common causes of sudden cardiac death are
+A. myocardial infarction
+B. dilated cardiomyopathy
+C. hypertrophic obstructive cardiomyopathy
+D. long QT syndrome
+E. aortic stenosis",TTTTT,Explanation 96
+"97. Potentially reversible causes of pulseless electrical activity are
+A. hypoxia
+B. hypovolaemia
+C. hypothermia
+D. tension pneumothorax
+E. cardiac tamponade",TTTTT,Explanation 97
+"98. The followings are differential diagnosis of peripheral oedema
+A. cardiac failure
+B. chronic venous insufficiency
+C. nephrotic syndrome
+D. idiopathic cause
+E. hypothyroidism",TTTTT,Explanation 98
+"99. The following are features of innocent heart murmur
+A. heard at the left sternal edge
+B. no radiation
+C. accompanying thrill
+D. diastolic
+E. mid-systolic",TTFFT,Explanation 99
+"100. Risk factors for thromboembolism in atrial fibrillation
+A. age over 65
+B. hypertension
+C. heart failure
+D. chronic liver disease
+E. diabetes mellitus",TTTTT,Explanation 100
+"101. Features of digoxin toxicity are
+A. diarrhoea
+B. ventricular bigeminy
+C. ventricular tachycardia
+D. renal failure
+E. xanthopsia",TTTFT,Explanation 101
+"102. Cardiac resynchronization therapy (CRT)
+A. is indicated in LBBB without severe heart failure
+B. is indicated in moderate symptomatic heart failure with sinus rhythm...
+C. improves cardiac output
+D. reduces mortality
+E. improves quality of life",FFTTT,Explanation 102
+"103. In unstable angina the following treatments have beneficial role
+A. aspirin
+B. aspirin plus low molecular weight heparin
+C. warfarin
+D. clopidogrel
+E. ß blocker",TTFTT,Explanation 103
+"104. After myocardial infarction the following complications are likely to occur
+A. Dressler's syndrome
+B. angina
+C. heart block
+D. ventricular extrasystoles
+E. thromboembolism",TTTTT,Explanation 104
+"105. Criteria for mitral valvuloplasty are
+A. isolated mitral stenosis
+B. associated with regurgitant valve lesion
+C. left atrium thrombus
+D. non-calcified valve on echocardiogram
+E. significant symptoms",TFFTT,Explanation 105
+"106. Factors aggravating the angina include
+A. exertion
+B. emotional excitement
+C. cold weather
+D. exercise after meal
+E. warm up before exercise",TTTTF,Explanation 106
+"107.Causes of third heart sound include
+A. healthy young adults
+B. athletes
+C. pregnancy
+D. fever
+E. mitral regurgitation",TTTTT,Explanation 107
+"108. Causes of secondary hypertension include
+A. chronic kidney disease
+B. renovascular disease
+C. pheochromocytoma
+D. coarctation of aorta
+E. chronic diuretic therapy",TTTTF,Explanation 108
+"109. Causes of an irregular pulse are
+A. atrial fibrillation
+B. ventricular tachycardia
+C. ventricular extrasystoles
+D. atrial flutter with varying degree of block
+E. second degree heart block with variable responses",TFTTT,Explanation 109
+"110. Causes of slow heart rate are
+A. digoxin
+B. verapamil
+C. right bundle branch block
+D. sick sinus syndrome
+E. complete heart block",TTFTT,Explanation 110
+"111.Signs of infective endocarditis include
+A. absent pulses
+B. splenomegaly
+C. café au lait lesion
+D. heavy proteinuria
+E. finger nail pitting",TTFFF,Explanation 111
+"112. In hypertension, the following features can be seen
+A. retinopathy
+B. renal bruit
+C. hepatic bruit
+D. buffalo hump
+E. right ventricular hypertrophy",TTFTF,Explanation 112
+"113.Differential diagnosis of mid-diastolic murmur include
+A. mitral stenosis
+B. tricuspid stenosis
+C. left atrial myxoma
+D. aortic stenosis
+E. Graham Steell murmur",TTTFF,Explanation 113
+"114. Useful initial investigations for heart failure include
+A. CXR
+B. ECG
+C. coronary angiogram
+D. arterial blood gas analysis
+E. urea and electrolyte",TTFFT,Explanation 114
+"115. The following signs are correctly paired with associated conditions
+A. corneal arcus - hypercholesterolaemia
+B. prominent vein in the neck - SVC obstruction
+C. calcinosis - scleroderma
+D. flapping tremor - heart failure
+E. delayed relaxation of tendon reflexes - hyperthyroidism",TTTFF,Explanation 115
+"116. The following target organ damages are seen in hypertension
+A. kidney
+B. eye
+C. CNS
+D. adrenal gland
+E. thyroid gland",TTTFF,Explanation 116
+"117. Conditions associated with aortic dissection include
+A. aortic coarctation
+B. pregnancy
+C. Marfan's syndrome
+D. SLE
+E. syphilis",TTTFF,Explanation 117
+"118. Regarding management of myocardial infarction, the following are
+beneficial
+A. diet
+B. ACE inhibitor
+C. thrombolytic therapy
+D. alpha blocker
+E. calcium channel blockers",TTTFF,Explanation 118
+"119.Features of digoxin toxicity include
+A. constipation
+B. altered color vision
+C. ventricular bigeminy
+D. bradycardia
+E. atrial tachycardia",FTTTT,Explanation 119
+"120. Complications of myocardial infarction include
+A. sinus bradycardia
+B. atrioventricular block
+C. pericarditis
+D. myocarditis
+E. left atrial rupture",TTTFF,Explanation 120
+"121. The following investigations are correctly paired with associated conditions
+A. renal ultrasound - renal artery stenosis
+B. urinary catecholamines - adrenal cortex tumor
+C. urinary cortisol - Cushing's syndrome
+D. CXR - coarctation of aorta
+E. echocardiogram -aortic stenosis",TFTTT,Explanation 121
+"122. Non-coronary causes of chest pain include
+A. costochondritis
+B. pleurisy
+C. severe anemia
+D. thyrotoxicosis
+E. oesophagitis",TTTTT,Explanation 122
+"123.Modifiable risk factors for coronary artery disease include
+A. male sex
+B. old age
+C. diabetes
+D. obesity
+E. smoking",FFTTT,Explanation 123
+"124.Non-modifiable risk factors for coronary artery disease are
+A. strong family history
+B. oral contraceptive pills
+C. hyperlipidaemia
+D. hypertension
+E. hyperuricaemia",TFFFF,Explanation 124
+"125. Regarding cardiac enzymes
+A. the earliest one to rise is myoglobin
+B. CK-MB level returns to normal after one week
+C. troponin level still increases up to two weeks
+D. increased LDH is specific for acute myocardial infarction
+E. troponin level is specific for cardiac muscle necrosis",TFTFT,Explanation 125
+"126. In atrial fibrillation, the following drugs are indicated
+A. digoxin
+B. amiodarone
+C. ACEI
+D. metoprolol
+E. flecainide",TTFTT,Explanation 126
+"127. The following drugs have the mortality benefit in cardiac failure
+A. ACEI
+B. digoxin
+C. carvedilol
+D. calcium channel blocker
+E. furosemide",TFTFF,Explanation 127
+"128. In malignant hypertension, the following are true
+A. rapid reduction in blood pressure is important
+B. sublingual nifedipine is used to reduce blood pressure
+C. bed rest has beneficial role
+D. sodium nitroprusside infusion can be used for encephalopathy
+E. IV labetolol is contraindicated in pregnant women",FFTTF,Explanation 128
+"129. In rheumatic fever, the following are true
+A. arthritis usually affects small joints
+B. Carey Coombs' murmur indicates carditis
+C. erythema marginatum occurs mainly on limbs
+D. Sydenham's chorea may be preceded by emotional lability
+E. increased ASO titre is one of the minor criteria",FTFTF,Explanation 129
+"130. Indications for surgery in bacterial endocarditis include
+A. fungal endocarditis refractory to medical therapy
+B. prosthetic valve with non-streptococcal endocarditis
+C. refractory heart failure
+D. development of new aneurysm of the sinus of valsalva
+E. drainage of myocardial abscess",TTTTT,Explanation 130
+"131. The use of intravenous antihypertensive agents is indicated in patients with
+A. intracranial haemorrhage`
+B. aortic dissection
+C. rapidly progressive renal failure
+D. eclampsia
+E. accelerated malignant hypertension",FTTTT,Explanation 131
+"132. The following are physiological changes in normal pregnancy.
+A. systemic vascular resistance is increased
+B. the rise in cardiac output exceeds the increase in oxygen consumption
+C. blood pressure usually falls during the second trimester.
+D.glomerular filtration rate (GFR) falls
+E. a moderate rise in blood pressure may occur in the last month of pregnancy",FFTFT,Explanation 132
+"133. The following statements about the management of heart failure are correct
+A. enalapril improves survival rates in mild to moderate heart failure
+B. hydralazine-isosorbide nitrate combination is superior to enalapril
+C. enalapril improves survival in patients with asymptomatic left ventricular
+dysfunction
+D. digoxin improves survival in patients with heart failure
+E. enalapril is particularly useful in those with underlying bilateral renal artery
+stenosis",TFTFF,Explanation 133
+"134. Withdrawal of beta blockers abruptly may precipitate
+A. unstable angina
+B. myocardial infarction
+C. bronchial asthma
+D. arrhythmias
+E. sudden death",TTFTT,Explanation 134
+"135.Cheyne-Stokes respiration is
+A. seen in heart failure
+B. seen in pulmonary embolism
+C. seen in brain stem stroke
+D. related to stimulation of the respiratory centre
+E. alternate hyperventilation and apnoea",TFTFT,Explanation 135
+"136.Causes of palpitations include
+A. tachycardia
+B. bradycardia
+C. irregular heart rhythm
+D. hypothyroid
+E. anxiety",TTTFT,Explanation 136
+"137.A small-volume pulse may be felt in
+A. cardiac failure
+B. tachycardia
+C. aortic regurgitation
+D. shock
+E. aortic stenosis",TFFTT,Explanation 137
+"138. Impalpable apex beat is a feature of
+A. aortic regurgitation
+B. obesity
+C. emphysema
+D. pleural effusion
+E. pericardial effusion",FTTFT,Explanation 138
+"139. Pulsatile jugular venous pulse is produced by
+A. superior vena caval obstruction
+B. constrictive pericarditis
+C. hypovolaemia
+D. cardiac tamponade
+E. congestive heart failure",FTFTT,Explanation 139
+"140. Recognized features of pulmonary venous hypertension on the chest X-ray
+include
+A. pruning of the pulmonary arteries
+B. dilatation of the lower lobe pulmonary veins
+C. Kerley B lines
+D. mottling of the lung fields
+E. pleural effusion",FFTTT,Explanation 140
+"141.Causes of left bundle branch block include
+A. ischaemic heart disease
+B. aortic regurgitation
+C. acute myocardial infarct
+D. cardiomyopathy
+E. ostium secundum atrial septal defect",TFTTF,Explanation 141
+"142.Atrial natriuretic peptides (ANP)
+A. are potent vasoconstrictors
+B. are increased in pneumonia
+C. are secreted by the atria in response to distension
+D. enhance sodium and water retention
+E. levels fall in heart failure",FFTFF,Explanation 142
+"143. Characteristic features of unstable angina include
+A. worsening angina
+B. angina at rest
+C. elevated troponin I
+D. transient ECG changes
+E. if untreated, a large proportion of such patients develop a myocardial
+infarction within weeks",TTFTT,Explanation 143
+"144. Silent myocardial infarction is seen in
+A. healthy young individuals
+B. the elderly
+C. hypertensive patients.
+D. diabetics
+E. smokers",FTFTF,Explanation 144
+"145. Recognized features of coarctation of the aorta include
+A. women are more commonly affected
+B. association with Turner's syndrome
+C. bicuspid aortic valve
+D. claudication
+E. hypertension",FTTTT,Explanation 145
+"146. Dilated cardiomyopathy is associated with the following
+A. alcoholic cardiomyopathy
+B. haemochromatosis
+C. doxorubicin therapy
+D. beri beri
+E. systemic sclerosis",TTTTF,Explanation 146
+"147.Causes of pericarditis include
+A. coxsackie B virus
+B. tuberculosis
+C. malignancy
+D. uraemia
+E. Haemophilus influenzae",TTTTF,Explanation 147
